@@ -1,6 +1,6 @@
 Changing EXE's hash to prevent cheat checkers / anti cheats from hashing the cheat
 
-1. Go to https://hash-file.online/
+1. Go to https://hexed.it/
 2. Open the exe
 3. Scroll to the bottom of the hex numbers
 4. Click the "+"
